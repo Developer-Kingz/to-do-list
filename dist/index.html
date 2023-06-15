@@ -7,6 +7,24 @@
         <title>Document</title>
     <script defer src="runtime.bundle.js"></script><script defer src="index.bundle.js"></script></head>
     <body>
-        <ul class="task-list" data-lists></ul>
+        <div class="main-container">
+            <header>
+                <div class="main-header">
+                    <h2>Today's ToDo List</h2>
+                </div>
+                <form id="new-task-form">
+                    <input
+                        type="text"
+                        id="new-task-input"
+                        placeholder="please enter a task"
+                    />
+                </form>
+            </header>
+
+            <main>
+                <div id="task-list"></div>
+                <div class="clear">Clear all completed</div>
+            </main>
+        </div>
     </body>
 </html>
