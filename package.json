@@ -21,5 +21,20 @@
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "name": "to-do-list",
+  "description": "",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer-Kingz/to-do-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer-Kingz/to-do-list/issues"
+  },
+  "homepage": "https://github.com/Developer-Kingz/to-do-list#readme"
 }
