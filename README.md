@@ -33,9 +33,9 @@
 
 # 📖 [To Do List] <a name="To Do List"></a>
 
-**[Awesome Books]** In this project, I'm learning to build a basic website that allows users to add/remove books from a list. also used object oriented programming(class) array and objects also. so that it's dynamically modify's the DOM and add basic events.
+**[To Do List]** In this project, I'm learning to build a basic website that allows users to add/remove list of items from a To Do List. also used object oriented programming(class) array and objects also. so that it's dynamically modify's the DOM and add basic events.
 to get a professional interface that presents the work on my projects,
-pleas know that it is still on going and it needs more work but everything is coming together soon!
+please know that it is still on going and it needs more work but everything is coming together soon!
 
 ## 🛠 Built With <a name="built-with"></a>
 
