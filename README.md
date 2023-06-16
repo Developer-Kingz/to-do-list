@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="To Do List"></a>
+# 📖 [To Do List] <a name="To Do List"></a>
 
 **[Awesome Books]** In this project, I'm learning to build a basic website that allows users to add/remove books from a list. also used object oriented programming(class) array and objects also. so that it's dynamically modify's the DOM and add basic events.
 to get a professional interface that presents the work on my projects,
