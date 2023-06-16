@@ -120,9 +120,18 @@ const handleFormSubmit = (event) => {
   }
 };
 
+const removeAllTasks = () => {
+  tasks = tasks.filter((task) => !task.completed);
+  savedTasks();
+  renderTaskList();
+};
+
 // Event handlers placed before usage to avoid function hierarchy errors
 const form = document.getElementById('new-task-form');
 form.addEventListener('submit', handleFormSubmit);
+
+const removeAllButton = document.getElementById('clear');
+removeAllButton.addEventListener('click', removeAllTasks);
 
 window.addEventListener('DOMContentLoaded', () => {
   loadTasksFn();
