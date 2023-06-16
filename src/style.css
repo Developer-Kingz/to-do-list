@@ -73,3 +73,21 @@ body {
   width: 3vw;
   border: 1px solid black;
 }
+
+.delete-btn {
+  position: absolute;
+  right: 16vw;
+}
+
+.edit-btn {
+  position: absolute;
+  right: 20vw;
+}
+
+.input-text {
+  width: 55vw;
+  height: 8vh;
+  margin-right: 3vw;
+  border: none;
+  outline: none;
+}
