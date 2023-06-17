@@ -65,7 +65,7 @@ please know that it is still on going and it needs more work but everything is c
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--   [Live Demo Link]
+-   [Live Demo Link](https://developer-kingz.github.io/to-do-list/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
